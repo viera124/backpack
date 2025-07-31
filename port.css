@@ -1,0 +1,39 @@
+h1 {
+            color: black; 
+            background-color: burlywood;
+            text-align: center;
+        }
+        .awal {
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            color: whitesmoke; 
+            background-color: rgb(197, 160, 112);
+            display:flex;
+            text-align: left;
+            line-height: 4;
+            font-size: larger;
+        }
+.ga {
+ width:30%;
+hight:30%;
+display: flex;
+}
+.karya{
+     color: black; 
+     background-color: burlywood;
+     text-align: center;
+}
+.pict1{
+width:40%;
+hight:40%;
+}
+.pict2{
+width:40%;
+hight:40%;
+}
+.ig{
+    background-color: rgb(197, 160, 112);
+}
+body {
+    background-color: rgb(110, 44, 44);
+    color: antiquewhite;
+}
